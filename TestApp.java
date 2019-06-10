@@ -1,1 +1,4 @@
-public class TestApp{}
+public class TestApp{
+public static void main(String[] args){}
+
+}
